@@ -1,0 +1,32 @@
+[
+  {
+    "id": "p001",
+    "title": "Freelance Rate Calculator",
+    "kind": "XLSX",
+    "size": "48 KB",
+    "blurb": "A spreadsheet that turns your monthly costs and target income into a day rate, with tax and downtime built in.",
+    "price": 500000,
+    "currency": "NGN",
+    "downloadUrl": "https://example.com/files/rate-calculator.xlsx"
+  },
+  {
+    "id": "p002",
+    "title": "The Client Brief Template",
+    "kind": "PDF",
+    "size": "1.1 MB",
+    "blurb": "Eleven questions that get a client to hand you everything you need before a project starts.",
+    "price": 250000,
+    "currency": "NGN",
+    "downloadUrl": "https://example.com/files/client-brief.pdf"
+  },
+  {
+    "id": "p003",
+    "title": "Invoice Pack, 6 Layouts",
+    "kind": "ZIP",
+    "size": "3.4 MB",
+    "blurb": "Six editable invoice layouts in Word and Sheets format, built for solo consultants.",
+    "price": 750000,
+    "currency": "NGN",
+    "downloadUrl": "https://example.com/files/invoice-pack.zip"
+  }
+]
